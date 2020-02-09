@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Equipe on Laboratorio Redoxoma</title>
+    <link>https://www.labredox.com.br/team/</link>
+    <description>Recent content in Equipe on Laboratorio Redoxoma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 01 Feb 2020 18:22:24 -0300</lastBuildDate>
+    
+	<atom:link href="https://www.labredox.com.br/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Daniela</title>
+      <link>https://www.labredox.com.br/team/daniela-truzzi/</link>
+      <pubDate>Sat, 01 Feb 2020 18:22:24 -0300</pubDate>
+      
+      <guid>https://www.labredox.com.br/team/daniela-truzzi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coelho, Fernando</title>
+      <link>https://www.labredox.com.br/team/fernando-coelho/</link>
+      <pubDate>Sat, 01 Feb 2020 18:22:24 -0300</pubDate>
+      
+      <guid>https://www.labredox.com.br/team/fernando-coelho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linares, Edlaine</title>
+      <link>https://www.labredox.com.br/team/edlaine-linares/</link>
+      <pubDate>Sat, 01 Feb 2020 18:22:24 -0300</pubDate>
+      
+      <guid>https://www.labredox.com.br/team/edlaine-linares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcelo H. D. M. de Souza</title>
+      <link>https://www.labredox.com.br/team/marcelo-souza/</link>
+      <pubDate>Sat, 01 Feb 2020 18:22:24 -0300</pubDate>
+      
+      <guid>https://www.labredox.com.br/team/marcelo-souza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oliveira, Robson</title>
+      <link>https://www.labredox.com.br/team/robson-oliveira/</link>
+      <pubDate>Sat, 01 Feb 2020 18:22:24 -0300</pubDate>
+      
+      <guid>https://www.labredox.com.br/team/robson-oliveira/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galeria on Laboratorio Redoxoma</title>
+    <link>https://www.labredox.com.br/gallery/</link>
+    <description>Recent content in Galeria on Laboratorio Redoxoma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    
+	<atom:link href="https://www.labredox.com.br/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
